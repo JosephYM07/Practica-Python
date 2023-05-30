@@ -1,0 +1,23 @@
+{
+    "Cars":{
+       "a":"BMW",
+       "b":"Toyota",
+       "c":"Ford",
+       "d":"Mazda",
+       "e":"Mercedes"
+    },
+    "Colors":{
+       "a":"Red",
+       "b":"Blue",
+       "c":"White",
+       "d":"Black",
+       "e":"Green"
+    },
+    "Precies":{
+       "a":50000,
+       "b":25000,
+       "c":30000,
+       "d":35000,
+       "e":45000
+    }
+ }
