@@ -1,0 +1,1 @@
+{"_id":"_design/VISTA1","_rev":"3-c5e3f9ce2dcc4ec5331fdd7740675171","views":{"VISTA1":{"map":"function (doc) {\n  if (doc.score && doc.names && doc.revenue) {\n    emit(null, {score: doc.score, names: doc.names, revenue: doc.revenue});\n  }\n}"}},"language":"javascript"}
